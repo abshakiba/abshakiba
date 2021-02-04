@@ -3,6 +3,8 @@ I am a machine learning engineer at [Verisk](https://verisk.com). I love buildin
 
 I am constantly in the process of learning. My interest areas are Python and programming in general, machine learning and ML Operations, and AWS services like Sagemaker, Lambda, CloudWatch, etc. 
 
+Find my resume [here](abbas_shakiba_cv_github.pdf)
+
 <!--
 **abshakiba/abshakiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
