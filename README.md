@@ -1,5 +1,7 @@
 ### Hi there, I'm Abbas Shakiba 👋
-I am a machine learning engineer at [Verisk](https://verisk.com). I love building ML pipelines in the cloud environment. My recent project was building an automated text mining app on AWS to analyze Verisk's sales call summaries in Python by leveraging NLTK and several AWS services like Lambda, CloudWatch, etc.
+I am a machine learning engineer at [Capital One](https://capitalone.com). Currently, I am part of a core member of the Transaction Intelligence team to productionize new machine learning products in credit cards. Technology stack Python, Pyspark, Kubernetes, and AWS Services.
+
+Previously, I was a data scientist at [Verisk](https://verisk.com). In my last project I built an automated text mining app to analyze Verisk's sales call summaries and provide insights to sales teams. Tech stack:Python, NLTK, AWS; Lambda, CloudWatch, etc.
 
 I am constantly in the process of learning. My interest areas are Python and programming in general, machine learning and deep learning.
 
