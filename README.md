@@ -1,5 +1,5 @@
 ### Hi there, I'm Abbas Shakiba 👋
-I am a machine learning engineer at [Capital One](https://capitalone.com). Currently, I am part of a core member of the Transaction Intelligence team to productionize new machine learning products in credit cards. Technology stack Python, Pyspark, Kubernetes, and AWS Services.
+I am a machine learning engineer at [Capital One](https://capitalone.com). Currently, I am a core member of the Transaction Intelligence team to productionize new machine learning products in credit cards. Technology stack Python, Pyspark, Kubernetes, and AWS Services.
 
 Previously, I was a data scientist at [Verisk](https://verisk.com). In my last project I built an automated text mining app to analyze Verisk's sales call summaries and provide insights to sales teams. Tech stack:Python, NLTK, AWS; Lambda, CloudWatch, etc.
 
