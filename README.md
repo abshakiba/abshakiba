@@ -1,11 +1,10 @@
-### Hi there, I'm Abbas Shakiba 👋
-I am a machine learning engineer at [Capital One](https://capitalone.com). Currently, I am a core member of the Transaction Intelligence team to productionize new machine learning products in credit cards. Technology stack Python, Pyspark, Kubernetes, and AWS Services.
+I am Abbas Shakiba, a Machine Learning Engineer with 8+ years of experience architecting, deploying, and scaling ML platforms—particularly in payments and fraud. I specialize in MLOps and cloud-native solutions using Kubernetes and Kubeflow. At [Capital One](https://capitalone.com), I built fraud-detection systems that have prevented over \$100 million per month in credit-card losses and organized-fraud activities. As a core engineer on an ML team, I designed a high-scale pipeline and productionized predictive models that optimized credit-delinquency processes, saving \$1 billion by flagging high-risk customers and improving delinquency management.
 
-Previously, I was a data scientist at [Verisk](https://verisk.com). In my last project I built an automated text mining app to analyze Verisk's sales call summaries and provide insights to sales teams. Tech stack:Python, NLTK, AWS; Lambda, CloudWatch, etc.
+I am fluent in Python, PyTorch, and PySpark, and skilled in advanced ML algorithms (LLMs, AGI, deep learning, etc.). I also have deep expertise in automation, CI/CD pipelines, distributed systems, and real-time model monitoring. I collaborate closely with data scientists, analysts, and engineers to take complex ML models from prototype to production in critical environments such as payments and fraud. Outside of work, you’ll often find me running or perfecting my espresso shot.
 
-I am constantly in the process of learning. My interest areas are Python and programming in general, machine learning and deep learning.
-
-Find my resume [here](abbas_shakiba_mle.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abshakiba-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abshakiba)
+[![Medium](https://img.shields.io/badge/abshakiba-00ab6c?logo=medium&logoColor=white)](https://medium.com/@abshakiba)
+[![X](https://img.shields.io/badge/@abshakiba-181717?logo=x&logoColor=white)](https://x.com/abshakiba)
 
 <!--
 **abshakiba/abshakiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
